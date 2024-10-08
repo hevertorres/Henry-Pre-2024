@@ -1,3 +1,11 @@
 Hever Torres
 
 Hola mundo
+
+sincronizando repositorio …or push an existing repository from the command line
+
+Crear repositorio Henry-Pre-2024
+
+git remote add origin https://github.com/hevertorres/Henry-Pre-2024.git
+git branch -M main
+git push -u origin main
